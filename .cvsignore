@@ -1,0 +1,8 @@
+*.cm*
+master.Makefile
+config.status
+config.log
+unixodbc
+mysql
+postgres
+oraclecfo
